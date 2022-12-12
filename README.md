@@ -6,4 +6,4 @@ There are four basic goals:
   - IAM for personal use.
   - MFA for root user. 
   - Billing alerts.
-2. 
+2.  
