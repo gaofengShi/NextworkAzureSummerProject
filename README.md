@@ -6,4 +6,12 @@ There are four basic goals:
    - IAM for personal use.
    - MFA for root user. 
    - Billing alerts.
-2.  
+2. Web Hosting: 
+   - Deploy a VM host simple static "Honest-Feedback Coming Soon" web page. 
+   - Apply snapshot of VM to deploy a new VM. 
+3. Auto Scaling:
+   - Set an Azure Load Balancer for the VMs with two availability Zone. 
+4. External Data:
+   - use Azure Cosmos DB table to loading and retrieveing data on the VM. 
+ 
+
