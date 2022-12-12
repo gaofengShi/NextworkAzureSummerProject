@@ -3,7 +3,7 @@ This project is Azure study project for Cotiss company originased by NextWork su
 The website called The Honest-Feedback is to collectiong feedback from the employees. 
 There are four basic goals:
 1. Account goal:
--IAM for personal use.
--MFA for root user. 
--Billing alerts.
+- IAM for personal use.
+- MFA for root user. 
+- Billing alerts.
 2. 
