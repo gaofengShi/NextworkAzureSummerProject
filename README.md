@@ -13,7 +13,7 @@ There are four basic goals:
 3. Auto Scaling:
    - Set an Azure Load Balancer for the VMs with two availability Zone. 
 4. External Data:
-   - use Azure Cosmos DB table to loading and retrieveing data on the website.\
+   - use Azure Cosmos DB table to loading and retrieveing data on the website.<br/>
    
 Finaly, we built two verstion website:
    - Node.js web with NoSQL Azure Cosmos DB deployed on Linux virtual machine. 
@@ -26,7 +26,7 @@ The account subscription access control  setting in Azure Active Directory.\
 There are three Groups:
    - Developer 
    - Tester, 
-   - Guest.\
+   - Guest.
 
 There four users:
    - Gaofeng Shi: the owner of the account. 
