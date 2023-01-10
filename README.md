@@ -4,9 +4,9 @@ This project is Azure study project for Cotiss company originased by NextWork su
 The website called The Honest-Feedback is to collectiong feedback from the employees. \
 There are four basic goals:
 1. Account goal:
-   - IAM for personal use.
-   - MFA for root user. 
-   - Billing alerts.
+   - IAM for the project.
+   - MFA for the project. 
+   - Billing alerts of this project.
 2. Web Hosting: 
    - Deploy a VM host simple static "Honest-Feedback Coming Soon" web page. 
    - Apply snapshot of VM to deploy a new VM. 
@@ -24,8 +24,8 @@ Finaly, we built two verstion website:
 The Azure account setting for this project is based on a free trial.  We need to consider the cost so often. 
 The account subscription access control  setting in Azure Active Directory.\
 There are three Groups:
-   - Developer 
-   - Tester, 
+   - Developer: the administrator with contrivuter role and the developer. 
+   - Tester: the website tester
    - Guest.
 
 There four users:
