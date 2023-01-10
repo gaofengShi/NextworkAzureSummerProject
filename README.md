@@ -1,4 +1,4 @@
-# NextworkAzureSummerProject
+# Nextwork Azure SummerProject
 ## The Honest Feedback project. 
 This project is Azure study project for Cotiss company originased by NextWork summer of Azure 2022. The project required a couple of steps to build a simple website on Azure cloud. 
 The website called The Honest-Feedback is to collectiong feedback from the employees. 
@@ -13,6 +13,20 @@ There are four basic goals:
 3. Auto Scaling:
    - Set an Azure Load Balancer for the VMs with two availability Zone. 
 4. External Data:
-   - use Azure Cosmos DB table to loading and retrieveing data on the VM. 
+   - use Azure Cosmos DB table to loading and retrieveing data on the website. 
+Finaly, we built two verstion website:
+   - Node.js web with NoSQL Azure Cosmos DB deployed on Linux virtual machine. 
+   - Node.js web with NoSQL Azure Cosmos DB deployed on Azure App Service. 
+   
+   
+## The Azure project Account setting
+
+## The VM backup deploy
+
+## Load Balance and Auto scaling
+
+## Azure Cosmos DB for data
+
+## The final website deploy
  
 
