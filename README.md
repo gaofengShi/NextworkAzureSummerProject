@@ -34,8 +34,7 @@ There four users:
    - Cotissadmi: is the website developer and administrator with a contributor role in the developer group.
    - Cotissterster: is the website tester in the tester group.
    - Instructor: assigned to Nextwork Amber as a guest role with full access to the project in the guest group. 
-   ![user screenshot](pictures/uesrs.png)
-
+      <img src="pictures/uesrs.png" width="750">
 
 ### The VM backup deploy
 
