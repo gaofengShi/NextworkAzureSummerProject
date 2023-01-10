@@ -26,8 +26,8 @@ The account subscription access control  setting in Azure Active Directory.\
 There are three Groups:
    - Developer: the administrator with contrivuter role and the developer. 
    - Tester: the website tester
-   - Guest.
-
+   - Guest.    
+<!--    ![group screenshot](pictures/typesofGroups.png) -->
       <img src="pictures/typesofGroups.png" width="750">
 
 There four users:
