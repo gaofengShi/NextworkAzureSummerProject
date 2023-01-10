@@ -28,7 +28,7 @@ There are three Groups:
    - Tester: the website tester
    - Guest.
    ![group screenshot](pictures/typesofGroups.png)
-   <img src="pictures/typesofGroups.png" width="48">
+   <img src="pictures/typesofGroups.png" width="480">
 
 There four users:
    - Gaofeng Shi: the owner of the account. 
