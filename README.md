@@ -27,6 +27,7 @@ There are three Groups:
    - Developer 
    - Tester, 
    - Guest. 
+   
 There four users:
    - Gaofeng Shi: the owner of the account. 
    - Cotissadmi: is the website developer and administrator with a contributor role in the developer group.
