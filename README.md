@@ -13,7 +13,7 @@ There are four basic goals:
 3. Auto Scaling:
    - Set an Azure Load Balancer for the VMs with two availability Zone. 
 4. External Data:
-   - use Azure Cosmos DB table to loading and retrieveing data on the website. __
+   - use Azure Cosmos DB table to loading and retrieveing data on the website. /
 Finaly, we built two verstion website:
    - Node.js web with NoSQL Azure Cosmos DB deployed on Linux virtual machine. 
    - Node.js web with NoSQL Azure Cosmos DB deployed on Azure App Service. 
