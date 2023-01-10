@@ -21,6 +21,18 @@ Finaly, we built two verstion website:
    
    
 ### The Azure project Account setting
+The Azure account setting for this project is based on a free trial.  We need to consider the cost so often. 
+The account subscription access control  setting in Azure Active Directory. 
+There are three Groups:
+   - Developer 
+   - Tester, 
+   - Guest. 
+There four users:
+   - Gaofeng Shi: the owner of the account. 
+   - Cotissadmi: is the website developer and administrator with a contributor role in the developer group.
+   - Cotissterster: is the website tester in the tester group.
+   - Instructor: assigned to Nextwork Amber as a guest role with full access to the project in the guest group. 
+
 
 ### The VM backup deploy
 
