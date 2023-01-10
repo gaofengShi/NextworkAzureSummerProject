@@ -27,14 +27,14 @@ There are three Groups:
    - Developer: the administrator with contrivuter role and the developer. 
    - Tester: the website tester
    - Guest.    
-      <img src="pictures/typesofGroups.png" width="500">
+      <img src="pictures/typesofGroups.png" width="750">
 
 There four users:
    - Gaofeng Shi: the owner of the account. 
    - Cotissadmi: is the website developer and administrator with a contributor role in the developer group.
    - Cotissterster: is the website tester in the tester group.
    - Instructor: assigned to Nextwork Amber as a guest role with full access to the project in the guest group. 
-      <img src="pictures/uesrs.png" width="750">
+      <img src="pictures/uesrs.png" width="500">
 
 ### The VM backup deploy
 
