@@ -27,7 +27,7 @@ There are three Groups:
    - Developer: the administrator with contrivuter role and the developer. 
    - Tester: the website tester
    - Guest.
-   ![alt text](pictures/typesofGroups.png|width=70px)
+   ![alt text](pictures/typesofGroups.png | width=70px)
 
 There four users:
    - Gaofeng Shi: the owner of the account. 
