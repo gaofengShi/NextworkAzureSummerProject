@@ -20,14 +20,14 @@ Finaly, we built two verstion website:
    - Node.js web with NoSQL Azure Cosmos DB deployed on Azure App Service. 
    
    
-## The Azure project Account setting
+### The Azure project Account setting
 
-## The VM backup deploy
+### The VM backup deploy
 
-## Load Balance and Auto scaling
+### Load Balance and Auto scaling
 
-## Azure Cosmos DB for data
+### Azure Cosmos DB for data
 
-## The final website deploy
+### The final website deploy
  
 
