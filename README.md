@@ -31,13 +31,14 @@ There are three Groups:
 
 There are four users:
    - Gaofeng Shi: the owner of the account. 
-   - Cotissadmi: is the website developer and administrator with a contributor role in the __developer__ group.
-   - Cotissterster: is the website tester in the tester group.
-   - Instructor: assigned to Nextwork Amber as a guest role with full access to the project in the guest group. 
+   - Cotissadmi: is the website developer and administrator with a contributor role in the __Developer__ group.
+   - Cotissterster: is the website tester in the __Tester__ group.
+   - Instructor: assigned to Nextwork Amber as a guest role with full access to the project in the __guest__ group. 
       <img src="pictures/uesrs.png" width="600">
 
-MFA setting in Default Directory there are two types: Security and Microsoft 365. \
-The owner login the account with Microsoft 365. The Cotissadmi login the account with Microsoft Authenticator. 
+MFA setting in Default Directory there are two types: __Security__ and __Microsoft 365__. \
+This setting let the user passwordless login. If the user has the Microsoft 365 account, you can built-in with Azure account together. For example, The owner login the account with Microsoft 365 account. \
+For the user who doesn't have the Microsoft 365 account. You should use the Multi-factor authentication with Microsoft Authenticator APP in your device. For instance, the Cotissadmi login the account with Microsoft Authenticator. 
 
 ### The VM backup deploy
 
