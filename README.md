@@ -53,11 +53,11 @@ The picure below is the screenshot of the project cost analysis:\
    <img src="pictures/cost analysis.png" width="500">
 ### The VM deploy and backup
 The Virtual machine for host the webside properties:
-   - VM Name: cotissweb01 with Linux Ubuntu20.04 system
+   - VM Name: **cotissweb01** with Linux _Ubuntu20.04_ system
    - Size: Standard B1s (1 vcpu, 1 GiB memory) (eligible free for one year).  
    - OS disk: Resize to 64 Gib(P6) Free account eligible. Premium SSD (locally-redundant storage)
    - Public IP address is dynimic setting as it's free. We try setting on standard static when deploy load balance and scaling. 
-   - DNS name: sumprovm.australiaeast.cloudapp.azure.com.  
+   - DNS name: _sumprovm.australiaeast.cloudapp.azure.com_.  
    - Networking: need _Add inbound port rule_ for **Port** 3000 as we deploy _Node.js express_ web application. 
 
 ### Load Balance and Auto scaling
