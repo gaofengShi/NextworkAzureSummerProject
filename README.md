@@ -15,7 +15,7 @@ There are four basic goals:
 4. External Data:
    - use Azure Cosmos DB table to loading and retrieveing data on the website.<br/>
 
-Finaly, we built two verstion website for [_The Honest Feedback_](https://github.com/gaofengShi/NextworkAzureSummerProject/tree/main/feedback):
+Finaly, we deployed two verstion website for [_The Honest Feedback_](https://github.com/gaofengShi/NextworkAzureSummerProject/tree/main/feedback):
    - Node.js web with NoSQL Azure Cosmos DB deployed on Linux virtual machine. 
    - Node.js web with NoSQL Azure Cosmos DB deployed on Azure App Service. 
    
