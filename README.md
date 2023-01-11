@@ -72,7 +72,14 @@ The virtual machine is set for a web server in this project. We set and test the
    - Install IIS: set the IIS (internet information services) in the two VMs Basion connect. 
 
 After all the setup, we test the web display form the two VMs:
-   <img src="pictures/2browersDifferentVM.png" width="400">
+   <img src="pictures/2browersDifferentVM.png" width="400">\
+   As we can see the same IP displayed different contents.
+   
+If we showdown VM1, the two webs will display only from VM02:
+   <img src="pictures/stopVM01.png" width="400">\
+   
+If we showdown VM2, the two webs will display only from VM01:
+   <img src="pictures/stopVM02.png" width="400">\
    
  
 The version 2 website is deplyed on PaaS stracture Azure web Service. It is easily to scale up by change the App Service plan. The App Service plan is **Free F1** for the _Feedback_ simple website at moment. If the requirments grow up, it can be changed by increase the CPU, Memory, and Auto Scale from Hardware and  Feature views. 
