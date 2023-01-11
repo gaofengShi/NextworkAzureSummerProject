@@ -59,6 +59,10 @@ The Virtual machine for host the webside properties:
    - Public IP address is dynimic setting as it's free. We try setting on standard static when deploy load balance and scaling. 
    - DNS name: _sumprovm.australiaeast.cloudapp.azure.com_.  
    - Networking: need _Add inbound port rule_ for **Port** 3000 as we deploy _Node.js express_ web application. 
+ 
+ After we deployed the web application into VM, we can backup the VM with snapshot and create a VM2 from the snapshot easily.\
+ The below screenshots are the website display form VM2 and VM1. (for the cost reason we deleted the disk of snapshot after demostration). 
+ <img src="pictures/webo1display.png" width="200">  <img src="pictures/web02display.PNG" width="200">.
 
 ### Load Balance and Auto scaling
 
