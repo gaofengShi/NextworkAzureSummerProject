@@ -50,7 +50,7 @@ When the alert is triggered it will send an email to the owner.
 
 You also can use the cost analysis function in the subscription to analysis you spent and reduce it in future. 
 The picure below is the screenshow of the project cost analysis:\
-   <img src="pictures/costanalysis.png" width="600">\
+   <img src="pictures/cost analysis.png" width="500">\
 ### The VM backup deploy
 
 ### Load Balance and Auto scaling
