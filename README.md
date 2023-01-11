@@ -16,8 +16,8 @@ There are four basic goals:
    - use Azure Cosmos DB table to loading and retrieveing data on the website.<br/>
 
 Finaly, we deployed two verstion website for [_The Honest Feedback_](https://github.com/gaofengShi/NextworkAzureSummerProject/tree/main/feedback):
-   - Node.js web with NoSQL Azure Cosmos DB deployed on [Linux virtual machine](http://sumprovm.australiaeast.cloudapp.azure.com:3000/). 
-   - Node.js web with NoSQL Azure Cosmos DB deployed on [Azure App Service](https://sumpro.azurewebsites.net/).
+   - Node.js web with NoSQL Azure Cosmos DB deployed on [Linux virtual machine](http://feedbackweb01.eastasia.cloudapp.azure.com:3000/). 
+   - Node.js web with NoSQL Azure Cosmos DB deployed on [Azure App Service](https://feedbackweb02.azurewebsites.net).
    
    
 ### The Azure project Account setting
