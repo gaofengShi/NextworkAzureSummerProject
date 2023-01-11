@@ -29,12 +29,15 @@ There are three Groups:
    - Guest.    
       <img src="pictures/typesofGroups.png" width="750">
 
-There four users:
+There are four users:
    - Gaofeng Shi: the owner of the account. 
    - Cotissadmi: is the website developer and administrator with a contributor role in the developer group.
    - Cotissterster: is the website tester in the tester group.
    - Instructor: assigned to Nextwork Amber as a guest role with full access to the project in the guest group. 
       <img src="pictures/uesrs.png" width="600">
+
+MFA setting in Default Directory there are two types: Security and Microsoft 365. \
+The owner login the account with Microsoft 365. The Cotissadmi login the account with Microsoft Authenticator. 
 
 ### The VM backup deploy
 
