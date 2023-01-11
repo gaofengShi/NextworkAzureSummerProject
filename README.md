@@ -45,12 +45,12 @@ The budget control and billing alerts of this project assume the cost is $20.00 
 Alert conditions setting that actual cost is 80% and forecasted cost is 95%. 
 
 The picture below show the buget setting:\
-   <img src="pictures/Bugetsetting.png" width="600">\
+   <img src="pictures/Bugetsetting.png" width="600">
 When the alert is triggered it will send an email to the owner. 
 
 You also can use the cost analysis function in the subscription to analysis you spent and reduce it in future. 
 The picure below is the screenshot of the project cost analysis:\
-   <img src="pictures/cost analysis.png" width="500">\
+   <img src="pictures/cost analysis.png" width="500">
 ### The VM backup deploy
 
 ### Load Balance and Auto scaling
