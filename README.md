@@ -44,10 +44,11 @@ For the user who doesn't have the Microsoft 365 account. You should use the Mult
 The budget control and billing alerts of this project assume the cost is $20.00 monthly. The 
 Alert conditions setting that actual cost is 80% and forecasted cost is 95%. \
 The picture below show the buget setting:
-<img src="pictures/Bugetsetting.png" width="600">\
+   <img src="pictures/Bugetsetting.png" width="600">\
 When the alert is triggered it will send an email to the owner. \
-The picture below is the alert email example:
-<img src="pictures/budgetforcastAlertEmail.png" width="400">
+The picture below is the alert email example:\
+   <img src="pictures/budgetforcastAlertEmail.png" width="400">
+
 
 ### The VM backup deploy
 
