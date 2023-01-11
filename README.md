@@ -67,7 +67,7 @@ The Virtual machine for host the webside properties:
 ### Load Balance and Auto scaling
 The virtual machine is set for a web server in this project. We test the load balance based on 
 
-The version 2 website is deplyed on PaaS Azure web Service. It is easily to scale up by change the App Service plan. The App Service plan is Free F1 for the _Feedback_ simple website at moment. If the requirments grow up, it can be changed by increase the CPU, Memory, and Auto Scale from Hardware and  Feature views. 
+The version 2 website is deplyed on PaaS Azure web Service. It is easily to scale up by change the App Service plan. The App Service plan is **Free F1** for the _Feedback_ simple website at moment. If the requirments grow up, it can be changed by increase the CPU, Memory, and Auto Scale from Hardware and  Feature views. 
 ### Azure Cosmos DB for data
 
 ### The final website deploy
