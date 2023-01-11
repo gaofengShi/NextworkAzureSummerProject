@@ -71,7 +71,7 @@ The virtual machine is set for a web server in this project. We set and test the
    - NAT gateway: for outbound internet access for VMs. So we can test the load balance when we stop one of VMs.
    - Install IIS: set the IIS (internet information services) in the two VMs Basion connect. 
 
-After all the setup, we test the web can display form the two VMs:\
+After all the setup, we test the web can be displayed form the two different VMs:\
    <img src="pictures/2browersDifferentVM.png" width="400">\
    As we can see the same IP displayed different contents.
    
