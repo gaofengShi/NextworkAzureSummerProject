@@ -52,6 +52,13 @@ You also can use the cost analysis function in the subscription to analysis you 
 The picure below is the screenshot of the project cost analysis:\
    <img src="pictures/cost analysis.png" width="500">
 ### The VM deploy and backup
+The Virtual machine for host the webside properties:
+   - VM Name: cotissweb01 with Linux Ubuntu20.04 system
+   - Size: Standard B1s (1 vcpu, 1 GiB memory) (eligible free for one year).  
+   - OS disk: Resize to 64 Gib(P6) Free account eligible. Premium SSD (locally-redundant storage)
+   - Public IP address is dynimic setting as it's free. We try setting on standard static when deploy load balance and scaling. 
+   - DNS name: sumprovm.australiaeast.cloudapp.azure.com.  
+   - Networking: need _Add inbound port rule_ for **Port** 3000 as we deploy Node.js express web application. 
 
 ### Load Balance and Auto scaling
 
