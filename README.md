@@ -81,6 +81,8 @@ If we showdown VM1, the two webs will display only from VM02:\
 If we showdown VM2, the two webs will display only from VM01:
    <img src="pictures/stopVM02.png" width="750">
    
+However, as we are in free trial, the load balancer and VM2 were deleted after the test. 
+   
  
 The version 2 website is deplyed on PaaS stracture Azure web Service. It is easily to scale up by change the App Service plan. The App Service plan is **Free F1** for the _Feedback_ simple website at moment. If the requirments grow up, it can be changed by increase the CPU, Memory, and Auto Scale from Hardware and  Feature views. 
 ### Azure Cosmos DB for data
