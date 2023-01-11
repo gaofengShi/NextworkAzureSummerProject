@@ -65,9 +65,11 @@ The Virtual machine for host the webside properties:
    <img src="pictures/web01display.png" width="400">  
    <img src="pictures/web02display.png" width="400"> 
 ### Load Balance and Auto scaling
-The virtual machine is set for a web server in this project. We test the load balance based on 
-
-The version 2 website is deplyed on PaaS Azure web Service. It is easily to scale up by change the App Service plan. The App Service plan is **Free F1** for the _Feedback_ simple website at moment. If the requirments grow up, it can be changed by increase the CPU, Memory, and Auto Scale from Hardware and  Feature views. 
+The virtual machine is set for a web server in this project. We set and test the load balance based on two VMs and a virtual network. Here we need to following four steps to create a public load balancer:
+   - Create the virtual network: _sumpro-costiss-vn_, subnet, and Azure Basion host. The virtual network and subnet contains the load balancer and virtual machines. The bastion host is used to securely manage the virtual machines and install IIS to test the load balancer.
+   - Create load balancer: it is a zone redundant load balancer can balances VMs with zone-redundancy or data path survives and region remains healthy.
+   - NAT geteway: for outbound internet access for VMs. So we can test the load balance when we stop one of VMs.\
+The version 2 website is deplyed on PaaS stracture Azure web Service. It is easily to scale up by change the App Service plan. The App Service plan is **Free F1** for the _Feedback_ simple website at moment. If the requirments grow up, it can be changed by increase the CPU, Memory, and Auto Scale from Hardware and  Feature views. 
 ### Azure Cosmos DB for data
 
 ### The final website deploy
