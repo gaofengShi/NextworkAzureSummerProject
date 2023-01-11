@@ -15,7 +15,7 @@ There are four basic goals:
 4. External Data:
    - use Azure Cosmos DB table to loading and retrieveing data on the website.<br/>
 
-Finaly, we built two verstion website:
+Finaly, we built two verstion website for _The Honest Feedback_:
    - Node.js web with NoSQL Azure Cosmos DB deployed on Linux virtual machine. 
    - Node.js web with NoSQL Azure Cosmos DB deployed on Azure App Service. 
    
@@ -31,9 +31,9 @@ There are three Groups:
 
 There are four users:
    - Gaofeng Shi: the owner of the account. 
-   - Cotissadmi: is the website developer and administrator with a contributor role in the __Developer__ group.
-   - Cotissterster: is the website tester in the __Tester__ group.
-   - Instructor: assigned to Nextwork Amber as a guest role with full access to the project in the __guest__ group. 
+   - Cotissadmi: is the website developer and administrator with a contributor role in the _Developer_ group.
+   - Cotissterster: is the website tester in the _Tester_ group.
+   - Instructor: assigned to Nextwork Amber as a guest role with full access to the project in the _guest_ group. 
       <img src="pictures/uesrs.png" width="600">
 
 MFA setting in Default Directory there are two types: __Security__ and __Microsoft 365__. \
@@ -51,7 +51,7 @@ When the alert is triggered it will send an email to the owner.
 You also can use the cost analysis function in the subscription to analysis you spent and reduce it in future. 
 The picure below is the screenshot of the project cost analysis:\
    <img src="pictures/cost analysis.png" width="500">
-### The VM backup deploy
+### The VM deploy and backup
 
 ### Load Balance and Auto scaling
 
