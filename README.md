@@ -42,10 +42,12 @@ For the user who doesn't have the Microsoft 365 account. You should use the Mult
  <img src="pictures/cotiss adim login.png" width="250">  <img src="pictures/MFAapp.PNG" width="150">.
  
 The budget control and billing alerts of this project assume the cost is $20.00 monthly. The 
-Alert conditions setting that actual cost is 80% and forecasted cost is 95%. \
+Alert conditions setting that actual cost is 80% and forecasted cost is 95%. 
+
 The picture below show the buget setting:\
    <img src="pictures/Bugetsetting.png" width="600">\
-When the alert is triggered it will send an email to the owner. \
+When the alert is triggered it will send an email to the owner. 
+
 You also can use the cost analysis function in the subscription to analysis you spent and reduce it in future. 
 The picure below is the screenshow of the project cost analysis:\
    <img src="pictures/costanalysis.png" width="600">\
