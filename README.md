@@ -63,10 +63,11 @@ The Virtual machine for host the webside properties:
  After we deployed the web application into VM, we can backup the VM with snapshot and create a VM2 from the snapshot easily.\
  The below screenshots are the website display form VM2 and VM1. (for the cost reason we deleted the disk of snapshot after demostration). \
    <img src="pictures/web01display.png" width="400">  
-   <img src="pictures/web02display.png" width="400"> .
-
+   <img src="pictures/web02display.png" width="400"> 
 ### Load Balance and Auto scaling
+The virtual machine is set for a web server in this project. We test the load balance based on 
 
+The version 2 website is deplyed on PaaS Azure web Service. It is easily to scale up by change the App Service plan. The App Service plan is Free F1 for the _Feedback_ simple website at moment. If the requirments grow up, it can be changed by increase the CPU, Memory, and Auto Scale from Hardware and  Feature views. 
 ### Azure Cosmos DB for data
 
 ### The final website deploy
