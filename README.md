@@ -38,8 +38,7 @@ There are four users:
 
 MFA setting in Default Directory there are two types: __Security__ and __Microsoft 365__. \
 This setting let the user passwordless login. If the user has the Microsoft 365 account, you can built-in with Azure account together. For example, The owner login the account with Microsoft 365 account. \
-For the user who doesn't have the Microsoft 365 account. You should use the Multi-factor authentication with Microsoft Authenticator APP in your device. For instance, the Cotissadmi login the account with Microsoft Authenticator. 
-<img src="pictures/cotiss adim login.png" width="250"> <img src="pictures/MFAapp.PNG" width="250">
+For the user who doesn't have the Microsoft 365 account. You should use the Multi-factor authentication with Microsoft Authenticator APP in your device. For instance, the Cotissadmi login the account with Microsoft Authenticator. So when you login it will show on your computer <img src="pictures/cotiss adim login.png" width="250">, and you need approve from your phone <img src="pictures/MFAapp.PNG" width="250">.
 
 ### The VM backup deploy
 
