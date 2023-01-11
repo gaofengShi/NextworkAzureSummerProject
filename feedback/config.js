@@ -1,8 +1,8 @@
 const config = {};
 
-config.host = process.env.HOST || "https://feedback-db01.documents.azure.com:443/";
+config.host = process.env.HOST || "[The azure cosmos DB URL]";
 config.authKey =
-  process.env.AUTH_KEY || "oMGyv31vC1aINRnSGwitH6ZGmmWqSQR8qBpZ9jxXIghgVqBv3P3kpBBXCYLzjiNEQjQ02Awv033LACDbGe7PKg==";
+  process.env.AUTH_KEY || "[Teh Azure cosmos DB primary KEY]";
 config.databaseId = "sumproDB";
 config.containerId = "Collection01";
 
