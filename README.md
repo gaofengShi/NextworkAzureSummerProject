@@ -46,10 +46,9 @@ Alert conditions setting that actual cost is 80% and forecasted cost is 95%. \
 The picture below show the buget setting:\
    <img src="pictures/Bugetsetting.png" width="600">\
 When the alert is triggered it will send an email to the owner. \
-The picture below is the alert email example:\
-   <img src="pictures/budgetforcastAlertEmail.png" width="400">\
-
-
+You also can use the cost analysis function in the subscription to analysis you spent and reduce it in future. 
+The picure below is the screenshow of the project cost analysis:\
+   <img src="pictures/costanalysis.png" width="600">\
 ### The VM backup deploy
 
 ### Load Balance and Auto scaling
