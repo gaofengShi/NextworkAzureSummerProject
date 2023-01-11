@@ -58,7 +58,7 @@ The Virtual machine for host the webside properties:
    - OS disk: Resize to 64 Gib(P6) Free account eligible. Premium SSD (locally-redundant storage)
    - Public IP address is dynimic setting as it's free. We try setting on standard static when deploy load balance and scaling. 
    - DNS name: sumprovm.australiaeast.cloudapp.azure.com.  
-   - Networking: need _Add inbound port rule_ for **Port** 3000 as we deploy Node.js express web application. 
+   - Networking: need _Add inbound port rule_ for **Port** 3000 as we deploy _Node.js express_ web application. 
 
 ### Load Balance and Auto scaling
 
