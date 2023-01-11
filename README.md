@@ -40,6 +40,12 @@ MFA setting in Default Directory there are two types: __Security__ and __Microso
 This setting let the user passwordless login. If the user has the Microsoft 365 account, you can built-in with Azure account together. For example, The owner login the account with Microsoft 365 account. \
 For the user who doesn't have the Microsoft 365 account. You should use the Multi-factor authentication with Microsoft Authenticator APP in your device. For instance, the Cotissadmi login the account with Microsoft Authenticator. So when you login it will show on your computer let you approve from your phone.  
  <img src="pictures/cotiss adim login.png" width="250">  <img src="pictures/MFAapp.PNG" width="150">.
+ 
+ The budget control and billing alerts of this project assume the cost is $20.00 monthly. The 
+Alert conditions setting that actual cost is 80% and forecasted cost is 95%. 
+
+When the alert is triggered it will send an email to the owner. 
+
 
 ### The VM backup deploy
 
