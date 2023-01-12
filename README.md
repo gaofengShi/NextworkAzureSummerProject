@@ -108,7 +108,7 @@ You will see output on your terminal that means the server start in local:
 > node ./bin/www
 ```
 Open the browser with http://localhost:3000, you will see:
-
+    <img src="pictures/local3000.png" width="550">
 
 
 
