@@ -135,7 +135,8 @@ Go to the new folder and run _npm_ install and start the server:
    npm start
 ```
 Now you should be able to open our website on VM DNS name:
-http://feedbackweb01.eastasia.cloudapp.azure.com:3000
+http://feedbackweb01.eastasia.cloudapp.azure.com:3000 .\
+   <img src="pictures/feedbackweb01.png" width="450">
  
 ## Reference
 - [Create a public load balancer on VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
