@@ -96,7 +96,7 @@ The Azure Cosmos DB is created from Azure portal. The following steps show below
  
 ### Build a web application in local computer
 This process you can see the reference link to how to develop a Node.js application.
-The web application is [_The Honest Feedback_](https://github.com/gaofengShi/NextworkAzureSummerProject/tree/main/feedback). Make sure the **Keys** from the Azure cosmos DB set in the file _config.js_. correctly. 
+The web application is [_The Honest Feedback_](https://github.com/gaofengShi/NextworkAzureSummerProject/tree/main/feedback). Make sure the **Keys** from the Azure cosmos DB set in the file _config.js_ correctly. 
 
 You can download from here to your local computer. We need test it on our local computer before we deploy on Azure Cloud. Open a _Termainal_ on our local application folder. Start our server in local:
 ```
@@ -108,6 +108,7 @@ You will see output on your terminal that means the server start in local:
 > node ./bin/www
 ```
 Open the browser with http://localhost:3000, you will see:
+
 
 
 
