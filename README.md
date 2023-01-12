@@ -139,7 +139,14 @@ http://feedbackweb01.eastasia.cloudapp.azure.com:3000 .\
    <img src="pictures/feedbackweb01.png" width="450">
    
 ### Deploy on Azure web service
-The deploying on Azure web service is very simple. We can from our feedback dirdectory terminal start Visual Studio Code by type 
+The deploying on Azure web service is very simple. We can from our feedback dirdectory terminal start Visual Studio Code by command: _code._. After we login to Azure from VScode, we should see the subscription of our project. Right-click on App Service and select **Create Web App**. Following setting bwlow:
+   - An unique name of web: feedbackweb02.
+   - Node.js version: 18.1LTS
+   - Pricing tier: Free(F1)
+Once deployment completed, we can open our version2 website:
+https://feedbackweb02.azurewebsites.net .
+   <img src="pictures/feedbackweb02.png" width="450">
+
  
 ## Reference
 - [Create a public load balancer on VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
