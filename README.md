@@ -147,6 +147,8 @@ Once deployment completed, we can open our version2 website:
 https://feedbackweb02.azurewebsites.net .
    <img src="pictures/feedbackweb02.png" width="450">
 
+Conclusion 
+In this report we demonstrated the Azure account setting,  the load balancing of the VMs, and the deployment of the feedback website. As we are almost set the resources with free tier, we can’t show more about the auto scaling and region or zone redundancy with Azure cloud. The project will be configured with a real budget in future depending on the customer requirements. 
  
 ## Reference
 - [Create a public load balancer on VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
