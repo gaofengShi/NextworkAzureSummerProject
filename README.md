@@ -114,7 +114,7 @@ Open the browser with http://localhost:3000, you will see:\
 
 
 ### The final website deploy
-The website deployed on two resources in our project which are on VM _IaaS_ and Azure web service _PaaS_. As it is a study project, we want to show the flexibility and scalability to our client, and also we can set load balancer for final use in future. 
+The website deployed on two resources in our project which are on VM (_IaaS_) and Azure web service (_PaaS_). As it is a study project, we want to show the flexibility and scalability to our client, and also we can set load balancer for final use in future. 
 
  
 ## Reference
