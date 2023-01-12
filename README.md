@@ -114,8 +114,15 @@ Open the browser with http://localhost:3000, you will see:\
 
 
 ### The final website deploy
-The website deployed on two resources in our project which are on VM (_IaaS_) and Azure web service (_PaaS_). As it is a study project, we want to show the flexibility and scalability to our client, and also we can set load balancer for final use in future. 
+The website deployed on two resources in our project which are VM (_IaaS_) and Azure web Service (_PaaS_). As it is a study project, we want to show the flexibility and scalability to our client, and also we might set with load balancer for final use in future. 
 
+#### Deploy on VM
+Connect to VM by SSH. We need update and install _nodejs_ and _npm_ in the linux system first. 
+```
+  sudo apt-get update
+  sudo apt-get install nodejs
+  sudo apt-get install npm
+```
  
 ## Reference
 - [Create a public load balancer on VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
