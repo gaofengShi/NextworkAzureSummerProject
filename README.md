@@ -57,7 +57,7 @@ The Virtual machine for host the webside properties:
    - Size: Standard B1s (1 vcpu, 1 GiB memory) (eligible free for one year).  
    - OS disk: Resize to 64 Gib(P6) Free account eligible. Premium SSD (locally-redundant storage)
    - Public IP address is dynimic setting as it's free. We try setting on standard static when deploy load balance and scaling. 
-   - DNS name: _sumprovm.australiaeast.cloudapp.azure.com_.  
+   - DNS name: _feedbackweb01.eastasia.cloudapp.azure.com_.  
    - Networking: need _Add inbound port rule_ for **Port** 3000 as we deploy _Node.js express_ web application. 
  
  After we deployed the web application into VM, we can backup the VM with snapshot and create a VM2 from the snapshot easily.\
