@@ -123,6 +123,17 @@ Connect to VM by SSH. We need update and install _nodejs_ and _npm_ in the linux
   sudo apt-get install nodejs
   sudo apt-get install npm
 ```
+The second step is upload our web appliction to VM:
+```
+   git clone --bare https://github.com/gaofengShi/feedback.git
+   git clone feedback.git
+```
+Go to the new folder and run _npm_ install and start the server:
+```
+   cd feedback
+   npm install
+   npm start
+```
  
 ## Reference
 - [Create a public load balancer on VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
