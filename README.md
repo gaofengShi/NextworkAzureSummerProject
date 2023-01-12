@@ -86,6 +86,13 @@ However, as we are in free trial, the load balancer and VM2 were deleted after t
  
 The version 2 website is deplyed on PaaS stracture Azure web Service. It is easily to scale up by change the App Service plan. The App Service plan is **Free F1** for the _Feedback_ simple website at moment. If the requirments grow up, it can be changed by increase the CPU, Memory, and Auto Scale from Hardware and  Feature views. 
 ### Azure Cosmos DB for data
+The Azure Cosmos DB is created from Azure portal. The following steps show below: 
+   - Select API option to create _NoSQL Recommend_ new Azure Cosmos DB.
+   - Set the name : **sumpro-db** the unique name for the project. 
+   - Location set same or close to the VM. 
+   - Capacity mode is provisioned with free tier. 
+ 
+ After the Azure cosmos DB success created, Go to the DB page and select **Keys**. Copy the values from _URL_ and _PRIMARY KEY_ to use in the web application. 
 
 ### The final website deploy
  
