@@ -100,7 +100,7 @@ The web application is [_The Honest Feedback_](https://github.com/gaofengShi/Nex
 
 We need test it on our local computer before we deploy on Azure Cloud. Open a _Termainal_ on our local application folder.
 ```
-npm start
+~ % npm start
 ```
 
 
