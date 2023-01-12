@@ -138,3 +138,4 @@ Go to the new folder and run _npm_ install and start the server:
 ## Reference
 - [Create a public load balancer on VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
 - [Build a Node.js web app with Azure cosmos DB in Azure app Service](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-nodejs-web-app?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
+- [Deploy a Node.js application to Linux Virtual Machines in Azure](https://github.com/uglide/azure-content/blob/master/articles/virtual-machines-linux-nodejs-deploy.md)
