@@ -90,4 +90,5 @@ The version 2 website is deplyed on PaaS stracture Azure web Service. It is easi
 ### The final website deploy
  
 ## Reference
-- [Create a public load balancer on VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq)
+- [Create a public load balancer on VMs](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
+- [Build a Node.js web app with Azure cosmos DB in Azure app Service](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-nodejs-web-app?ns-enrollment-type=Collection&ns-enrollment-id=g76wc40dqxmjxq).
